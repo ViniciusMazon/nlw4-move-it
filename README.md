@@ -47,7 +47,7 @@ Desenvolvido durante a NLW#4, créditos a [Rocketseat 🚀](https://github.com/R
 Clone o repositório:
 
 ```bash
-git clone https://github.com/ViniciusMazon/
+git clone https://github.com/ViniciusMazon/nlw4-move-it.git
 ```
 
 Instale as dependência rodando, individualmente em cada diretório (api, web e mobile), o comando:
@@ -65,7 +65,7 @@ yarn start
 # 🖖🏻 Como contribuir
 
 - Faça um fork desse repositório;
-- Clone esse repositório em sua máquina: `https://github.com/ViniciusMazon/`
+- Clone esse repositório em sua máquina: `https://github.com/ViniciusMazon/nlw4-move-it.git`
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature`.
