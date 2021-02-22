@@ -1,46 +1,79 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="move it logo" title="MoveIt" src="docs\logo.svg" width="20%">
+</h1>
+<p align="center">
+  <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-utilizar">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+<div align="center">
+    <p>
+***    </p>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</br>
+</br>
 
-## Available Scripts
+<!-- <p align="center">
+  <img alt="mobile" src="docs/mobile.png" width="50%">
+</p> -->
 
-In the project directory, you can run:
+</br>
+</br>
 
-### `yarn start`
+# 💡 Sobre o projeto (Em desenvolvimento)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Desenvolvido durante a NLW#4, créditos a [Rocketseat 🚀](https://github.com/Rocketseat)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</br>
+</br>
 
-### `yarn test`
+<p align="center">
+  <img alt="cover" src="docs/cover.svg" width="80%">
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</br>
+</br>
 
-### `yarn build`
+# 🔬 Tecnologias
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [TypeScriot](https://www.typescriptlang.org)
+- [ReactJs](https://reactjs.org)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# ⚙️ Desenvolvimento
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Clone o repositório:
 
-### `yarn eject`
+```bash
+git clone https://github.com/ViniciusMazon/
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Instale as dependência rodando, individualmente em cada diretório (api, web e mobile), o comando:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+yarn
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Rode o projeto utilizando o script:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+yarn start
+```
 
-## Learn More
+# 🖖🏻 Como contribuir
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Faça um fork desse repositório;
+- Clone esse repositório em sua máquina: `https://github.com/ViniciusMazon/`
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+# 📃 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Feito com 🖤 por Vinicius Mazon.
