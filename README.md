@@ -39,8 +39,9 @@ Desenvolvido durante a NLW#4, créditos a [Rocketseat 🚀](https://github.com/R
 
 # 🔬 Tecnologias
 
-- [TypeScriot](https://www.typescriptlang.org)
+- [TypeScript](https://www.typescriptlang.org)
 - [ReactJs](https://reactjs.org)
+- [NextJS](https://nextjs.org)
 
 # ⚙️ Desenvolvimento
 
