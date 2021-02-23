@@ -60,7 +60,7 @@ yarn
 Rode o projeto utilizando o script:
 
 ```
-yarn start
+yarn dev
 ```
 
 # 🖖🏻 Como contribuir
