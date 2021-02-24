@@ -55,9 +55,13 @@
   font-size: 1.25rem;
   font-weight: 600;
 
-  outline: none;
+  outline: #ddd;
 
   transition: background-color 0.2s;
+}
+
+.countdownButton img {
+  margin-left: 8px;
 }
 
 .countdownButton:not(:disabled):hover {
@@ -66,7 +70,7 @@
 
 .countdownButtonActive {
   background-color: var(--white);
-  color: var(--title);
+  color: var(--text);
 }
 
 .countdownButtonActive:not(:disabled):hover {
