@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-utilizar">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
@@ -37,11 +37,16 @@ Desenvolvido durante a NLW#4, créditos a [Rocketseat 🚀](https://github.com/R
 </br>
 </br>
 
-# 🔬 Tecnologias
+# 🚀 Recursos
 
 - [TypeScript](https://www.typescriptlang.org)
-- [ReactJs](https://reactjs.org)
+- [ReactJS](https://reactjs.org)
+- [React Context](https://pt-br.reactjs.org/docs/context.html)
 - [NextJS](https://nextjs.org)
+
+</br>
+
+</br>
 
 # ⚙️ Desenvolvimento
 
@@ -63,6 +68,10 @@ Rode o projeto utilizando o script:
 yarn dev
 ```
 
+</br>
+
+</br>
+
 # 🖖🏻 Como contribuir
 
 - Faça um fork desse repositório;
@@ -72,6 +81,10 @@ yarn dev
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+</br>
+
+</br>
 
 # 📃 Licença
 
