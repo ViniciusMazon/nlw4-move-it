@@ -1,9 +1,12 @@
 import React from 'react';
+import { ChallengesContext } from '../contexts/ChallengesContext';
 import styles from '../styles/components/Countdown.module.css';
 
 let countdownTimeout: NodeJS.Timeout;
 
 export function Countdown() {
+  const { startNewChallenge } = React.useContext(ChallengesContext);
+
   const [time, setTime] = React.useState(0.1 * 60); //seconds
   const [isActive, setIsActive] = React.useState(false);
   const [hasFinished, setHasFinished] = React.useState(false);
@@ -20,9 +23,10 @@ export function Countdown() {
         setTime(time - 1);
       }, 1000);
     } else if (isActive && time === 0) {
-      alert('🏆 Parabéns! Você terminou um clico');
+      console.log('🏆 Parabéns! Você terminou um ciclo');
       setHasFinished(true);
       setIsActive(false);
+      startNewChallenge();
     }
   }, [isActive, time]);
 
