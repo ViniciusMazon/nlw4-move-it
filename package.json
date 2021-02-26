@@ -1,0 +1,31 @@
+{
+  "name": "nlw4-move-it-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "commit": "git-cz"
+  },
+  "dependencies": {
+    "js-cookie": "^2.2.1",
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^2.2.6",
+    "@types/node": "^14.14.31",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "3.3.0",
+    "typescript": "^4.1.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
