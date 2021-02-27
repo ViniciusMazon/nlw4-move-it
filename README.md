@@ -17,7 +17,7 @@
 
 
 </br>
-
+</br>
  <p align="center">
   <img alt="web" src="docs/web.png" width="50%">
 </p> 
@@ -40,7 +40,7 @@ Desenvolvido durante a NLW#4, créditos a [Rocketseat 🚀](https://github.com/R
 </br>
 
 
-# 🚀 Construido utilizando
+# 🚀 Construído utilizando
 
 - [TypeScript](https://www.typescriptlang.org)
 - [ReactJS](https://reactjs.org)
