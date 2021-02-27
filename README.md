@@ -3,52 +3,55 @@
 </h1>
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-utilizar">Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Construido utilizando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 <div align="center">
     <p>
-***    </p>
+        <a href="https://github.com/ViniciusMazon/nlw4-move-it/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ViniciusMazon/nlw4-move-it?style=for-the-badge"></a>
+   </p>
 </div>
 
-</br>
-</br>
 
-<!-- <p align="center">
-  <img alt="mobile" src="docs/mobile.png" width="50%">
-</p> -->
 
 </br>
+
+ <p align="center">
+  <img alt="web" src="docs/web.png" width="50%">
+</p> 
+
 </br>
 
-# 💡 Sobre o projeto (Em desenvolvimento)
+
+# 💡 Sobre o projeto
+
+Profissionais de tecnologia passam horas seguidas trabalhando em frente ao computador, o que a longo prazo pode ser prejudicial à saúde.O Move.it é um timer que em cada ciclo de 25 minutos te desafia a realizar alguma tarefa voltada a manutenção da saúde dos seus olhos e articulações.Utiliza a gamificação como metodologia a fim de incentivar e recompensar o usuário por cada tarefa realizada. Conforme mais tarefas são feitas, maior o seu level.
+
+**Acesse a demo do [Move.it](https://move-it-mazon.vercel.app)**
+
+**Assista ao [vídeo da demo](https://www.youtube.com/watch?v=1YbSeOYaveA&feature=youtu.be)**
+
+</br>
 
 Desenvolvido durante a NLW#4, créditos a [Rocketseat 🚀](https://github.com/Rocketseat)
 
 </br>
-</br>
 
-<p align="center">
-  <img alt="cover" src="docs/cover.svg" width="80%">
-</p>
 
-</br>
-</br>
-
-# 🚀 Recursos
+# 🚀 Construido utilizando
 
 - [TypeScript](https://www.typescriptlang.org)
 - [ReactJS](https://reactjs.org)
-- [React Context](https://pt-br.reactjs.org/docs/context.html)
 - [NextJS](https://nextjs.org)
+- [React Context](https://pt-br.reactjs.org/docs/context.html)
+- [Commitizen](https://github.com/commitizen/cz-cli)
+- [GitFlow](https://github.com/nvie/gitflow)
 
 </br>
 
-</br>
-
-# ⚙️ Desenvolvimento
+# ⚙️ Como utilizar
 
 Clone o repositório:
 
@@ -70,8 +73,6 @@ yarn dev
 
 </br>
 
-</br>
-
 # 🖖🏻 Como contribuir
 
 - Faça um fork desse repositório;
@@ -81,8 +82,6 @@ yarn dev
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-</br>
 
 </br>
 
